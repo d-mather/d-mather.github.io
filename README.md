@@ -1,2 +1,2 @@
 # d-mather.github.io
-Go to http://d-mather.github.io/repository.
+Go to https://d-mather.github.io
