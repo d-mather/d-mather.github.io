@@ -124,6 +124,7 @@ header .header-content .header-content-inner p {
 .content-3 {
 	padding: 20px 0 40px;
 	text-align: center;
+	background-color: snow;
 }
 
 .promo,
@@ -333,6 +334,10 @@ header .header-content .header-content-inner p {
     .navbar-default.affix .nav>li>a:focus:hover {
         color: rgb(12, 37, 13);
     }
+}
+
+header {
+    background-color: black;
 }
 
 .btn-default {
